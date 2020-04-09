@@ -2,9 +2,9 @@ applications:
 - name: cf-spring-music
   memory: 1024M
   # Add your name/initials to make the hostname unique
-  host: cf-spring-music
+  host: spring-music-k13
   # Currently defaults to PWS
   domain: cfapps.io
-  path: pre-built/spring-music-1.0.0.war
+  path: C:\Users\radha\git\springnew\spring-music\pre-built\spring-music.war
   instances: 1
   

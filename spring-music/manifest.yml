@@ -1,8 +1,8 @@
 applications:
-- name: spring-music
+- name: cf-spring-music
   memory: 1024M
   # Add your name/initials to make the hostname unique
-  host: spring-music
+  host: cf-spring-music
   # Currently defaults to PWS
   domain: cfapps.io
   path: pre-built/spring-music-1.0.0.war
